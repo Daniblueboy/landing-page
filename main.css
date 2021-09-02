@@ -79,7 +79,6 @@ article h2{
 }
 form{
     padding: 1.5rem;
-    border:2px solid red;
     display: flex;
     justify-content: flex-start;
     flex-direction: column;
